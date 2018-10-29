@@ -3,7 +3,6 @@ project
 
 │——README.md
 │      
-│
 └───data/ 词向量及一些中间文件
 │   
 │   
